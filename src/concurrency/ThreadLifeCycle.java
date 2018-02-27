@@ -173,4 +173,12 @@ public class ThreadLifeCycle {
 	printStatus(thread);
 
     }
+
+
+	public static void main(String[] args) {
+		ThreadLifeCycle threadLifeCycle = new ThreadLifeCycle();
+		String descStatus = descStatus();
+		System.out.println(descStatus);
+
+	}
 }

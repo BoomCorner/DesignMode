@@ -7,8 +7,8 @@ package designpattern.factory.simple;
  *
  */
 public abstract class Operation {
-    public double numberA;
-    public double numberB;
+    public double numberA=5.5;
+    public double numberB=1.1;
 
     public abstract double result();
 }

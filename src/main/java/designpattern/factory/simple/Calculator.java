@@ -13,8 +13,8 @@ public class Calculator {
 
 	operator = '+';
 	operation = OperationFactory.createOperation(operator);
-	operation.numberA = 1.2;
-	operation.numberB = 2.3;
+//	operation.numberA = 1.2;
+//	operation.numberB = 2.3;
 
 	System.out.println(operation.result());
     }

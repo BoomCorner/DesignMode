@@ -3,7 +3,7 @@ package designpattern.decorator.tableDecorator;
 /**
  * Created by herenwei on 2018/3/6.
  *
- * 参考 http://blog.csdn.net/cooldragon/article/details/52174157
+ * 参考 http://blog.csdn.net/cooldragon/article/details/52174157  装饰者模式
  */
 public class Client {
     public static void main(String[] args) {

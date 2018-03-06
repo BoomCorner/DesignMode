@@ -1,4 +1,4 @@
-package designpattern.decorator;
+package designpattern.decorator.base;
 
 import java.io.*;
 

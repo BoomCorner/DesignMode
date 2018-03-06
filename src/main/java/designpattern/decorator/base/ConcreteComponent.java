@@ -1,4 +1,4 @@
-package designpattern.decorator;
+package designpattern.decorator.base;
 
 /**
  * ConcreteComponent是定义一个具体的对象，也可以给这个对象添加一些职责

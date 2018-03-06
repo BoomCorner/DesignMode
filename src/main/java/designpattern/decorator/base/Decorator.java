@@ -1,4 +1,4 @@
-package designpattern.decorator;
+package designpattern.decorator.base;
 
 /**
  * Decorator，装饰抽象类，继承了Component，从外类来扩展Component类的功能，但对于Component来说，

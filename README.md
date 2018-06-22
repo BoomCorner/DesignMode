@@ -1,6 +1,8 @@
 # JavaCodeAcc
 Java代码积累：**[并发](./README.md/#concurrency) [设计模式](./README.md/#design-pattern) [数据结构](./README.md/#data-structure) [使用容器](./README.md/#using-containers) [工具](./README.md/#tools) [util类](./README.md/#util) [基础知识](./README.md/#basic)**
 
+## CSDN 设计模式
+http://blog.csdn.net/cooldragon/article/details/52164380
 ## concurrency
 - [演示线程的生命周期](/Users/herenwei/Corner/DesignMode/src/main/java/concurrency/ThreadLifeCycle.java)
 - [生产者-消费者](/src/main/concurrency/ProducerAndConsumer.java)
